@@ -103,7 +103,7 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 
 ![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-DHT11-Y-LCD/blob/main/image%20(3).png?raw=true)
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-DHT11-Y-LCD/blob/main/image%20(4).png?raw=true)
 
 ![]()
 
