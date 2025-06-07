@@ -110,4 +110,4 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 ## Creditos
 
 Desarrollado por Ing. Oscar Jair Ocampo Villarreal
-- (github)
+- ([github](https://github.com/OSCAROV2058))
