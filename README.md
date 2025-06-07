@@ -84,7 +84,7 @@ lcd.clear();
 
 3. Hacer la conexion de DHT11 y LCD con la ESP32 como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-DHT11-Y-LCD/blob/main/image%20(1).png?raw=true)
 
 
 ## Instrucciónes de operación
