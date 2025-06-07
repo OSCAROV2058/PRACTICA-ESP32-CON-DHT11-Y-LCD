@@ -80,12 +80,13 @@ lcd.clear();
 
 2. Instalar la libreria de DHT sensor library for ESPx y LiquidCrystal I2C como se muestra en la siguente imagen.
 
+![]()
 
 
 
 3. Hacer la conexion de DHT11 y LCD con la ESP32 como se muestra en la siguente imagen.
 
-
+![]()
 
 
 ## Instrucciónes de operación
@@ -100,12 +101,13 @@ lcd.clear();
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en las siguentes imagenes.
 
+![]()
 
+![]()
 
+![]()
 
-
-
-
+![]()
 
 ## Creditos
 
