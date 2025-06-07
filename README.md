@@ -1,10 +1,10 @@
-# PRACTICA-ESP32-CON-DHT11-Y-LCD
+# PRACTICA-ESP32-CON-DHT22-Y-LCD
 
 ## Introduccion
 
 ### Descripcion
 
-Este repositorio muestra como podemos programar una ESP32 con el sensor DHT11 y una pantalla LCD
+Este repositorio muestra como podemos programar una ESP32 con el sensor DHT22 y una pantalla LCD
 
 ## Material necesario
 
@@ -12,7 +12,7 @@ Este repositorio muestra como podemos programar una ESP32 con el sensor DHT11 y 
 
 -Tarjeta ESP32
 
--Sensor DHT11
+-Sensor DHT22
 
 -Pantalla LCD (16x2)
 
@@ -82,7 +82,7 @@ lcd.clear();
 
 ![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-DHT11-Y-LCD/blob/main/image.png?raw=true)
 
-3. Hacer la conexion de DHT11 y LCD con la ESP32 como se muestra en la siguente imagen.
+3. Hacer la conexion de DHT22 y LCD con la ESP32 como se muestra en la siguente imagen.
 
 ![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-DHT11-Y-LCD/blob/main/image%20(1).png?raw=true)
 
@@ -93,7 +93,7 @@ lcd.clear();
 
 2. Visualizar los datos en el monitor serial. (CURSO, NOMBRE Y CARRERA, FECHA).
 
-3. Colocar la temperatura y humedad dando doble click al sensor DHT11.
+3. Colocar la temperatura y humedad dando doble click al sensor DHT22.
 
 ## Resultados
 
