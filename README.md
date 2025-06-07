@@ -99,7 +99,7 @@ lcd.clear();
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en las siguentes imagenes.
 
-![]()
+![](https://github.com/OSCAROV2058/PRACTICA-ESP32-CON-DHT11-Y-LCD/blob/main/image%20(2).png?raw=true)
 
 ![]()
 
